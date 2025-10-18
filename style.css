@@ -1,0 +1,22 @@
+body{
+
+}
+.box{
+    width : 500px;
+    height : 90px;
+    background-color: beige;
+    border: 1px solid black;
+    margin: 2px;
+     clear: both;
+    display: table; 
+    margin-top : 20px;
+    margin-left: 150px;
+    margin-bottom: auto;
+    margin-right: auto;
+}
+
+img{
+    float : left;
+    width : 250px;
+    height : 100%;
+}
